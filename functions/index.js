@@ -1,4 +1,4 @@
-const functions = require("firebase-functions");
+/*const functions = require("firebase-functions");
 const express = require("express");
 const cors = require("cors");
 const stripe = require("stripe")(
@@ -38,3 +38,4 @@ exports.api = functions.https.onRequest(app);
 
 // Example endpoint
 // http://localhost:5001/challenge-4b2b2/us-central1/api
+*/
